@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: CONFIG-PROD
+
 #-> Eureka Client Configuration for Discover Server
 eureka:
   client:
