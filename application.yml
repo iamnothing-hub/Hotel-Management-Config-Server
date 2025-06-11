@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: CONFIG-DEFAULT
 #-> Eureka Client Configuration for Discover Server
 eureka:
   client:
